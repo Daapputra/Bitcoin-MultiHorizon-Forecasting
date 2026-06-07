@@ -81,4 +81,4 @@ pip install tensorflow pandas numpy matplotlib scikit-learn
 Evaluasi model dilakukan menggunakan metrik *Mean Absolute Error* (MAE) pada data pengujian untuk melihat perbandingan performa antara Baseline LSTM, Seq2Seq Subclass, dan Seq2Seq Functional. Model terbaik akan disimpan secara otomatis dengan format `.keras`.
 
 ---
-*Dibuat oleh **Muhammad Nur Daffa Naufal Putra** sebagai Submission Akhir DLTM.*
+*Dibuat oleh **Muhammad Nur Daffa Naufal Putra** Submission DLTM.*
